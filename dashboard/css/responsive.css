@@ -1,0 +1,63 @@
+@media only screen and (max-width: 768px) {
+
+    .header_inner_contact{
+        text-align: center;
+    }
+    .header_social_icon{
+        display: none;
+    }
+    .navbar-toggler-icon i{
+        color:#fff;
+    }
+    .mobile_cart_section{
+        display: block;
+    }
+
+    .header_section .navbar-toggler{
+        display: flex;
+        justify-content: right;
+        margin-left: auto;
+        display: none;
+    }
+    .header_section .navbar-brand{
+        color:#fff;
+    }
+
+    .sidenav {padding-top: 15px;}
+    .sidenav a {font-size: 14px;}
+    .sidenav a i{margin-right: 15px;}
+
+    .sidenav .package_menu {
+        margin-top: 0px !important;
+    }
+
+    .sitevisit{
+        display: none;
+    }
+
+}
+
+
+
+
+
+
+
+@media only screen and (max-width: 993px) {
+
+    .side_bar{
+        display: none;
+    }
+    .db_sec{
+        width: 100% !important;
+    }
+
+    .data_section {
+        height: 100%;
+    }
+
+    .menuicon{
+        display: block;
+    }
+
+}

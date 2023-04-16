@@ -1,0 +1,166 @@
+@media only screen and (max-width: 700px) {
+
+
+    .header{
+        background-color: #621818 !important;
+    }
+
+    .logo_Img{
+        display: none !important;
+    }
+
+    .header_call_fle ul a {color:#fff;
+    }
+
+    .mobile_logo {
+        display: block;
+    }
+    .mobile_logo img{
+        width:80px;
+    }
+
+    .Call_section{
+        margin-left:0px;
+    }
+
+    .header_call_fle ul {
+        align-items: center;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+
+    .uper_header .header_mail{
+        display: none;
+    }
+    .navigation_section li a{
+        color:#fff;
+        text-align: left;
+        margin-top:10px;
+    }
+
+    .carousel-inner img {
+        width:100%;
+        height:212px !important;
+    }
+    .uper_header .container {
+        display: flex;
+        justify-content: center;
+    }
+    .uper_header button {
+        border: none;
+        font-size: 14px;
+        background: #fff;
+        padding: 3px 12px 4px 12px;
+        font-family: 'Jost', sans-serif;
+        margin-left: 15px;
+    }
+    .navbar-toggler-icon i{
+        color:#fff !important;
+    }
+    .welcome_home{
+        padding:50px 20px;
+    }
+    .latest_news_section{
+        margin-top:40px;
+        padding:0px;
+    }
+    .managment_div img {
+        width: 50%;
+    }
+    .enrol_code h3 {
+        font-size: 26px;
+    }
+    .testimonial_slider_section {
+        padding: 50px 15px 70px 15px;
+    }
+    .in_blog_div2, .in_blog_div3 {
+        margin-top:50px;
+    }
+    .fifth_footer_copright{
+        text-align: center !important;
+    }
+    .fifth_footer_copright .company_developed {
+        text-align: center !important;
+    }
+
+    .about_braudcumb_section {
+        padding: 120px 15px 80px 15px;
+    }
+
+    .about_page_section {
+        padding: 60px 15px;
+    }
+
+    .inner_about_div{
+        margin-top:30px;
+    }
+    .message_section_page {
+        padding: 60px 15px;
+    }
+    .inner_meesage{
+        margin-top:25px;
+    }
+    .gallery_page_section img{
+        margin-top:25px;
+    }
+
+    .download_page {
+        padding: 60px 15px;
+    }
+    .blog_page_section {
+        padding: 60px 15px;
+    }
+    .widgets_section{
+        margin-top:30px;
+    }
+    .blog_short_info h3 {
+        font-size: 22px;
+    }
+
+    .about_braudcumb_section h2 {
+        font-size: 32px;
+    }
+
+
+    .newsletter_section {
+        background: #e20c0c;
+        padding: 40px 10px;
+    }
+    .newsletter_input {
+        display: flex;
+        height: 100%;
+        justify-content: left;
+    }
+    .form__email {
+        width:100%;
+        margin-top:10px;
+    }
+    .form__button{
+        margin-top:10px;
+    }
+
+    .inner_why_text{
+        margin-top:50px;
+    }
+
+    .inner_stuff2{
+        margin:20px 0px;
+    }
+    .inner_stuff3{
+        margin-bottom: 20px;
+    }
+
+    /* enrol code */
+    .enrol_code{
+        padding:50px 10px;
+    }
+    /* enrol code end */
+    
+    /* managment  */
+    .margintop{
+        margin-top:25px;
+    }
+    /* managment end */
+
+  }
